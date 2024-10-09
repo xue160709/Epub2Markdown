@@ -1,0 +1,19 @@
+{
+  "name": "my-electron-app",
+  "version": "1.0.0",
+  "description": "我的第一个Electron应用",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^x.x.x",
+    "extract-zip": "^2.0.1",
+    "turndown": "^7.1.1",
+    "xml2js": "^0.4.23",
+    "cheerio": "^1.0.0-rc.10"
+  },
+  "keywords": []
+}
