@@ -9,13 +9,15 @@
   },
   "author": "",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "cheerio": "^1.0.0-rc.10",
-    "electron": "^x.x.x",
-    "electron-builder": "^25.1.7",
     "extract-zip": "^2.0.1",
     "turndown": "^7.1.1",
     "xml2js": "^0.4.23"
+  },
+  "devDependencies": {
+    "electron": "^x.x.x",
+    "electron-builder": "^25.1.7"
   },
   "keywords": [],
   "build": {
