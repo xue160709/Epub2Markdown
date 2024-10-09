@@ -21,11 +21,11 @@
 1. 确保您的系统已安装Node.js (https://nodejs.org/)
 2. 克隆此仓库到本地:
    ```bash
-   git clone https://github.com/your-username/epub-to-markdown-converter.git
+   git clone https://github.com/xue160709/Epub2Markdown.git
    ```
 3. 进入项目目录:
    ```bash
-   cd epub-to-markdown-converter
+   cd Epub2Markdown
    ```
 4. 安装依赖:
    ```bash
